@@ -1,1 +1,3 @@
+HEAD
 echo"Fail Hard1"
+Branch2
